@@ -1,0 +1,123 @@
+Pointer 1 Values
+----------------
+40x96 = 83711C4
+00 00 00 00 00 08 00 00 
+00 40 00 00 00 08 00 00
+
+32x88 = 83711C4
+00 00 00 00 00 08 00 00 
+00 40 00 00 00 08 00 00
+
+16x16 = 83711D4
+00 00 00 40 00 08 00 00 
+00 40 00 40 00 08 00 00 
+00 40 00 C0 00 08 00 00
+
+32x16 = 83711EC
+00 80 00 80 00 08 00 00
+
+32x32 = 83711F4
+00 00 00 80 00 08 00 00
+
+48x48 = 83711F4
+00 00 00 80 00 08 00 00
+
+64x64 = 83711FC
+00 00 00 C0 00 08 00 00
+
+
+Pointer 2
+==============================================
+16x16 = 8371244
+00 00 00 00 00 00 00 00 
+01 00 00 00 04 12 37 08 
+01 00 00 00 0C 12 37 08 
+02 00 00 00 14 12 37 08 
+02 00 00 00 24 12 37 08 
+02 00 00 00 34 12 37 08
+[371204] F8 FF F8 FF 04 80 00 00
+[37120C] F8 FF F8 FF 04 40 00 00
+[371214] F8 FF F8 FF 01 80 00 00 F8 FF 00 00 21 C0 00 00
+[371224] F8 FF F8 FF 04 80 00 00 F8 FF F8 FF 04 C0 00 00
+[371234] F8 FF F8 FF 04 40 00 00 F8 FF F8 FF 04 C0 00 00
+==============================================
+32x16 = 83712BC
+00 00 00 00 00 00 00 00
+01 00 00 00 74 12 37 08
+01 00 00 00 7C 12 37 08 
+03 00 00 00 84 12 37 08 
+02 00 00 00 9C 12 37 08
+02 00 00 00 AC 12 37 08
+[371274] F8 FF F0 FF 0A 80 00 00
+[37127C] F8 FF F0 FF 0A 40 00 00
+[371284] F8 FF F0 FF 04 80 00 00 F8 FF 00 00 41 80 00 00 F8 FF 08 00 61 C0 00 00
+[37129C] F8 FF F0 FF 04 80 00 00 F8 FF 00 00 44 C0 00 00
+[3712AC] F8 FF F0 FF 04 40 00 00 F8 FF 00 00 44 C0 00 00
+==============================================
+32x32 = 8371334
+00 00 00 00 00 00 00 00
+01 00 00 00 EC 12 37 08
+01 00 00 00 F4 12 37 08
+03 00 00 00 FC 12 37 08
+02 00 00 00 14 13 37 08
+02 00 00 00 24 13 37 08
+[3712EC] F0 FF F0 FF 08 80 00 00
+[3712F4] F0 FF F0 FF 08 40 00 00
+[3712FC] F0 FF F0 FF 09 80 00 00 F0 FF 00 00 85 80 00 00 F0 FF 08 00 C5 C0 00 00
+[371314] F0 FF F0 FF 09 80 00 00 F0 FF 00 00 89 C0 00 00
+[371324] F0 FF F0 FF 09 40 00 00 F0 FF 00 00 89 C0 00 00
+==============================================
+48x48 = 83713C4
+64x64 = 8371464
+40x96 = 8371674
+32x88 = 83718A4
+
+61 has 0000000?
+
+
+
+
+Pointer 5 Values
+----------------
+81E2910
+83711BC
+
+Pointer 3 Values
+----------------
+8370FB0
+8370F60
+8371010
+83710B0
+8371164
+8370F10
+8370F60
+8371168
+8370F0C
+8371184
+837117C
+
+
+Sprite(0)   Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 10 Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 16 Pointer 1: 83711EC Pointer 2: 83712BC Pointer 3: 8370FB0 Pointer 5: 81E2910
+Sprite(1)   Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 10 Unknown Data 3: 02 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8370F60 Pointer 5: 81E2910
+Sprite(2)   Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 10 Unknown Data 3: 02 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8371010 Pointer 5: 81E2910
+Sprite(4)   Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 10 Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8371164 Pointer 5: 81E2910
+Sprite(89)  Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 10 Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 16 Pointer 1: 83711EC Pointer 2: 83712BC Pointer 3: 8370FB0 Pointer 5: 81E2910
+Sprite(90)  Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 10 Unknown Data 3: 02 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8370F60 Pointer 5: 81E2910
+Sprite(91)  Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 10 Unknown Data 3: 02 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8371010 Pointer 5: 81E2910
+Sprite(100) Sprite Data Size: 256 Unknown Data 1: 11 02 11 Unknown Data 2: 1A Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 16 Pointer 1: 83711EC Pointer 2: 83712BC Pointer 3: 8370FB0 Pointer 5: 81E2910
+Sprite(101) Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 1A Unknown Data 3: 02 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8370F60 Pointer 5: 81E2910
+Sprite(102) Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 1A Unknown Data 3: 02 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8371010 Pointer 5: 81E2910
+Sprite(104) Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 1A Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8371164 Pointer 5: 81E2910
+Sprite(105) Sprite Data Size: 256 Unknown Data 1: 11 02 11 Unknown Data 2: 1A Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 16 Pointer 1: 83711EC Pointer 2: 83712BC Pointer 3: 8370FB0 Pointer 5: 81E2910
+Sprite(106) Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 1A Unknown Data 3: 02 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8370F60 Pointer 5: 81E2910
+Sprite(107) Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 1A Unknown Data 3: 02 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8371010 Pointer 5: 81E2910
+Sprite(109) Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 1A Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8371164 Pointer 5: 81E2910
+Sprite(137) Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 10 Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 837118C Pointer 5: 81E2910
+Sprite(138) Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 10 Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 837118C Pointer 5: 81E2910
+Sprite(191) Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 10 Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8370F60 Pointer 5: 81E2910
+Sprite(192) Sprite Data Size: 512 Unknown Data 1: 11 02 11 Unknown Data 2: 10 Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 32 Pointer 1: 83711F4 Pointer 2: 8371334 Pointer 3: 8370F60 Pointer 5: 81E2910
+Sprite(193) Sprite Data Size: 256 Unknown Data 1: 11 02 11 Unknown Data 2: 5A Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 16 Pointer 1: 83711EC Pointer 2: 83712BC Pointer 3: 8370F0C Pointer 5: 81E2910
+Sprite(194) Sprite Data Size: 256 Unknown Data 1: 11 02 11 Unknown Data 2: 5A Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 16 Pointer 1: 83711EC Pointer 2: 83712BC Pointer 3: 8370F0C Pointer 5: 81E2910
+Sprite(212) Sprite Data Size: 128 Unknown Data 1: 11 02 11 Unknown Data 2: 1A Unknown Data 3: 01 Height (Pixels): 16 Width (Pixels): 16 Pointer 1: 83711D4 Pointer 2: 8371244 Pointer 3: 8370F60 Pointer 5: 81E2910
+Sprite(216) Sprite Data Size: 256 Unknown Data 1: 11 02 11 Unknown Data 2: 1A Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 16 Pointer 1: 83711EC Pointer 2: 83712BC Pointer 3: 8370FB0 Pointer 5: 81E2910
+Sprite(217) Sprite Data Size: 256 Unknown Data 1: 11 02 11 Unknown Data 2: 1A Unknown Data 3: 01 Height (Pixels): 32 Width (Pixels): 16 Pointer 1: 83711EC Pointer 2: 83712BC Pointer 3: 8370FB0 Pointer 5: 81E2910

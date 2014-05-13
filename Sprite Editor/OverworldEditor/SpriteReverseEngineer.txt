@@ -1,0 +1,170 @@
+Sprite(140)
+
+Sprite Data Size: 1920
+Unknown Data 1: 11 FF 11
+
+Unknown Data 2: 1A
+Unknown Data 3: 00
+
+Unknown Data 4*: 00
+Height (Pixels): 40
+Width (Pixels): 96
+Pointer 1: 83711C4
+Pointer 2: 8371674
+Pointer 3: 8370F60
+Sprite Header 2 Pointer: 8370118
+Pointer 5: 81E2910
+
+Sprite(0)
+Sprite Data Size: 512
+Unknown Data 1: 11 02 11
+Unknown Data 2: 10
+Unknown Data 3: 01
+Unknown Data 4*: 00
+Height (Pixels): 32
+Width (Pixels): 16
+Pointer 1: 83711EC
+Pointer 2: 83712BC
+Pointer 3: 8370FB0
+Sprite Header 2 Pointer: 836E050
+Pointer 5: 81E2910
+
+Sprite(1)
+Sprite Data Size: 512
+Unknown Data 1: 11 02 11
+Unknown Data 2: 10
+Unknown Data 3: 02
+Unknown Data 4*: 00
+Height (Pixels): 32
+Width (Pixels): 32
+Pointer 1: 83711F4
+Pointer 2: 8371334
+Pointer 3: 8370F60
+Sprite Header 2 Pointer: 836E0E0
+Pointer 5: 81E2910
+
+Sprite(2)
+Sprite Data Size: 512
+Unknown Data 1: 11 02 11
+Unknown Data 2: 10
+Unknown Data 3: 02
+Unknown Data 4*: 00
+Height (Pixels): 32
+Width (Pixels): 32
+Pointer 1: 83711F4
+Pointer 2: 8371334
+Pointer 3: 8371010
+Sprite Header 2 Pointer: 836E128
+Pointer 5: 81E2910
+
+Sprite(3)
+Sprite Data Size: 512
+Unknown Data 1: 11 FF 11
+Unknown Data 2: 90
+Unknown Data 3: 01
+Unknown Data 4*: 00
+Height (Pixels): 32
+Width (Pixels): 32
+Pointer 1: 83711F4
+Pointer 2: 8371334
+Pointer 3: 83710B0
+Sprite Header 2 Pointer: 836E200
+Pointer 5: 81E2910
+
+Sprite(4)
+Sprite Data Size: 512
+Unknown Data 1: 11 02 11
+Unknown Data 2: 10
+Unknown Data 3: 01
+Unknown Data 4*: 00
+Height (Pixels): 32
+Width (Pixels): 32
+Pointer 1: 83711F4
+Pointer 2: 8371334
+Pointer 3: 8371164
+Sprite Header 2 Pointer: 836E2A8
+Pointer 5: 81E2910
+
+Sprite(5)
+Sprite Data Size: 512
+Unknown Data 1: 11 FF 11
+Unknown Data 2: 2A
+Unknown Data 3: 01
+Unknown Data 4*: 00
+Height (Pixels): 32
+Width (Pixels): 32
+Pointer 1: 83711F4
+Pointer 2: 8371334
+Pointer 3: 8370F10
+Sprite Header 2 Pointer: 836E2D0
+Pointer 5: 81E2910
+
+Sprite(6)
+Sprite Data Size: 128
+Unknown Data 1: 11 FF 11
+Unknown Data 2: 12
+Unknown Data 3: 01
+Unknown Data 4*: 00
+Height (Pixels): 16
+Width (Pixels): 16
+Pointer 1: 83711D4
+Pointer 2: 8371244
+Pointer 3: 8370F60
+Sprite Header 2 Pointer: 836E308
+Pointer 5: 81E2910
+
+Sprite(7)
+Sprite Data Size: 256
+Unknown Data 1: 11 FF 11
+Unknown Data 2: 13
+Unknown Data 3: 01
+Unknown Data 4*: 00
+Height (Pixels): 32
+Width (Pixels): 16
+Pointer 1: 83711EC
+Pointer 2: 83712BC
+Pointer 3: 8370F60
+Sprite Header 2 Pointer: 836E350
+Pointer 5: 81E2910
+
+Sprite(8)
+Sprite Data Size: 256
+Unknown Data 1: 11 FF 11
+Unknown Data 2: 14
+Unknown Data 3: 01
+Unknown Data 4*: 00
+Height (Pixels): 32
+Width (Pixels): 16
+Pointer 1: 83711EC
+Pointer 2: 83712BC
+Pointer 3: 8370F60
+Sprite Header 2 Pointer: 836E398
+Pointer 5: 81E2910
+
+Sprite(9)
+Sprite Data Size: 256
+Unknown Data 1: 11 FF 11
+Unknown Data 2: 13
+Unknown Data 3: 01
+Unknown Data 4*: 00
+Height (Pixels): 32
+Width (Pixels): 16
+Pointer 1: 83711EC
+Pointer 2: 83712BC
+Pointer 3: 8370F60
+Sprite Header 2 Pointer: 836E3E0
+Pointer 5: 81E2910
+
+Sprite(10)
+Sprite Data Size: 256
+Unknown Data 1: 11 FF 11
+Unknown Data 2: 12
+Unknown Data 3: 01
+Unknown Data 4*: 00
+Height (Pixels): 32
+Width (Pixels): 16
+Pointer 1: 83711EC
+Pointer 2: 83712BC
+Pointer 3: 8370F60
+Sprite Header 2 Pointer: 836E428
+Pointer 5: 81E2910

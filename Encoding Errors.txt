@@ -1,0 +1,7 @@
+﻿Due to the limitations of the supported zip file format, the following file(s) had to be renamed.
+
+Original File Name  ->  New File Name
+Map Editor/Ini/Sprachen/Espa､ol.ini -> Map Editor/Ini/Sprachen/File1.ini
+Map Editor/Maps/BL啜ENBURG CITY.Evt -> Map Editor/Maps/File2.Evt
+Map Editor/Maps/BL啜ENBURG CITY.map -> Map Editor/Maps/File3.map
+Pokemon Picture and Trainer changer/Pok駑on Ruby.gba -> Pokemon Picture and Trainer changer/File4.gba
